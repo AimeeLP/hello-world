@@ -1,12 +1,9 @@
 # hello-world
 
-A Panda walks into a bar and asks for a bowl of peanuts
-After he's finished the bowl he picks up his shotgun and takes a shot at the ceiling
-Then heads out the door.
+A Panda walks into a bar and asks for a bowl of peanuts. Once he's finished the bowl he picks up his shotgun and takes aim at the ceiling and shoots before heading towards the door.
 
-The barman screams "What'd you do that for?!"
+This rather shocks the barman, who screams "What the hell'd you do that for?!"
 
-The Panda turns around and answers "Look me up in the dictionary"
+To which the Panda simply replies "I'm a Panda, look me up in the dictionary"
 
-Dictionary
-Panda: Eats, shoots and leaves
+When the barman gets home that evening he pulls out the Dictionary, and there it is, "Panda: Eats, shoots and leaves"
